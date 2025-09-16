@@ -1,4 +1,5 @@
 print('Hello World!')
 a = int(input("Введите первое число "))
 b = int(input("Введите первое число "))
-print('Вы ввели ', a, b)
+c = a + b
+print("Сумма введенных чисел ", a+b)
